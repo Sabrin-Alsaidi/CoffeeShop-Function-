@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/bin/Debug/net6.0/Function CoffeeShop
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/bin/Debug/net6.0/Function CoffeeShop.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/bin/Debug/net6.0/Function CoffeeShop.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/bin/Debug/net6.0/Function CoffeeShop.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/bin/Debug/net6.0/Function CoffeeShop.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/refint/Function CoffeeShop.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/Function CoffeeShop.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Function CoffeeShop Solution/Function CoffeeShop/obj/Debug/net6.0/ref/Function CoffeeShop.dll
